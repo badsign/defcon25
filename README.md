@@ -3,7 +3,7 @@
 ## Thursday
 
 ### 10:00
-NONE
+#### Can skip this time slot
 
 ### 11:00
 #### 101 Track
@@ -19,8 +19,6 @@ NONE
 #### 101 Track
 ##### Amateur Digital Archeology
 ###### Matt 'openfly' Joyce
-
-or
 
 #### 101 Track Two
 ##### Wiping Out CSRF
@@ -137,7 +135,7 @@ or
 ##### Cisco Catalyst Exploitation
 ###### Artem Kondratenko
 
-#### NONE
+#### Can skip this time slot
 
 ## Saturday
 
@@ -150,14 +148,14 @@ or
 ##### Get-$pwnd: Attacking Battle-Hardened Windows Server
 ###### Lee Holmes
 
-#### NONE
+#### Can skip this time slot
 
 ### 10:30
 #### 101 Track
 ##### Breaking Wind: Adventures in Hacking Wind Farm Control Networks
 ###### Jason Staggs
 
-#### NONE
+#### Can skip this time slot
 
 ### 11:00
 #### 101 Track
@@ -194,7 +192,7 @@ or
 ##### DNS - Devious Name Services - Destroying Privacy & Anonymity Without Your Consent
 ###### Jim Nitterauer
 
-#### NONE
+#### Can skip this time slot
 
 ### 13:00
 #### 101 Track
@@ -248,7 +246,7 @@ or
 ###### Professor Plum
 
 ### 16:00
-#### NONE
+#### Can skip this time slot
 
 ### 17:00
 #### 101 Track
@@ -275,7 +273,7 @@ or
 ###### Josh Datko & Chris Quartier
 
 ### 10:30
-#### NONE
+#### Can skip this time slot
 
 ### 11:00
 #### 101 Track
@@ -314,7 +312,7 @@ or
 ###### Alvaro Muñoz & Oleksandr Mirosh
 
 ### 15:00
-#### NONE
+#### Can skip this time slot
 
 ### 16:30
 #### Track Three
